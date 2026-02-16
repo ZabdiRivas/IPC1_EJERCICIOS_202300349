@@ -11,3 +11,4 @@ Algoritmo Piramide
         Escribir ""
     FinPara
 FinAlgoritmo
+
